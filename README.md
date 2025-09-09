@@ -42,4 +42,22 @@ projeto/
 
 ---
 
+## Sobre o Autor
 
+👤 Ian Turcato  
+Entusiasta de desenvolvimento web focado em construir aplicações úteis com interfaces intuitivas e limpas.
+
+---
+
+Se gostou do projeto, não esqueça de deixar uma ⭐ no repositório!
+
+---
+
+## Contato
+
+- Instagram: [@ian_turcato](https://instagram.com/ian_turcato)  
+- LinkedIn: [Ian Turcato](https://linkedin.com/in/ian-turcato)
+
+---
+
+© 2025 Ian Turcato. Todos os direitos reservados.
